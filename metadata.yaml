@@ -18,6 +18,8 @@ creator:
 description: Romanes, G.J. The scientific evidence of organic evolution. -- Huxle,
   T.H. Palaeontology and the doctrine of evolution. -- Conder, E.R. Natural selection
   and natural theology. A criticism. -- Romanes, G.J.A reply.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19922#The-Scientific-Evidences-of-Organic-Evolution
 gutenberg_bookshelf: Biology
 gutenberg_issued: '2006-11-27'
 gutenberg_type: Text
